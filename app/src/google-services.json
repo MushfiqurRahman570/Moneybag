@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146688230197",
+    "firebase_url": "https://money-bag-1857e-default-rtdb.firebaseio.com",
+    "project_id": "money-bag-1857e",
+    "storage_bucket": "money-bag-1857e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146688230197:android:ab2ff4ef503de53a1f827c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146688230197-ajpu217raa4pumj3h4ger8de8ktajsmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "49eeed432a6d6fbf8760d1e1bdfc8c9cd254a583"
+          }
+        },
+        {
+          "client_id": "146688230197-g9gprtfnpeevn0smi9uk29ngofajoi7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADrFeAT8p36Bo8g4P8gGl5n7CjPToCWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146688230197-g9gprtfnpeevn0smi9uk29ngofajoi7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/amount"
+        android:title="Balance"
+        android:icon="@drawable/wallet"/>
+    <item
+        android:id="@+id/ScanQr"
+        android:title="Scan Qr"
+        android:icon="@drawable/qrcode"/>
+    <item
+        android:id="@+id/transaction"
+        android:title="Transaction"
+        android:icon="@drawable/transaction_icon"/>
+    <item
+        android:id="@+id/offer"
+        android:title="Offer"
+        android:icon="@drawable/gift"/>
+    <item
+        android:id="@+id/MyQr"
+        android:title="My Qr"
+        android:icon="@drawable/barcode_scanner"/>
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+    <item
+        android:id="@+id/sign_off"
+        android:title="Sign Off"
+        android:icon="@drawable/logout"/>
+</menu>
